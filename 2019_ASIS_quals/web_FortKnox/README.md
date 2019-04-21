@@ -33,7 +33,7 @@ As we can see in [Jinja documentation](http://jinja.pocoo.org/docs/2.10/template
 
 >You can use a dot (.) to access attributes of a variable in addition to the standard Python __getitem__ “subscript” syntax ([]).
 >The following lines do the same thing:
->{{ foo.bar }}
+>{{ foo.bar }}  
 >{{ foo['bar'] }}
 
 So ```[].__class__``` can become ```[]['__class__']``` and because we're dealing with strings, the underscores can become ```\x5f```. So we can get the flag with the following payload:
