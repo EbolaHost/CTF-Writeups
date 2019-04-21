@@ -1,13 +1,14 @@
 # Unicorn shop
 
 >Some people say you can buy anything, even love! What about unicorns?
-"A person does not buy a unicorn so easily, it’s really a matter of preparing yourself to be worthy of a unicorn."
-[Unicorn Shop](http://104.248.237.208/)
+>"A person does not buy a unicorn so easily, it’s really a matter of preparing yourself to be worthy of a unicorn."
+>[Unicorn Shop](http://104.248.237.208/)
 
 ##### This challenge was solved along with deltaclock.
 
 We arive at a site from where you can buy unicorns:
 ![](uni1.png)
+
 We probably have to purchase "Ultra Unicorn" to get the flag. However, "Price" can be only of length 1! So we can pay a maximum of 9 coins. "NaN", "INF", negative numbers and other tricks did not work. However, there's something odd in the source code:
 ```HTML
 <meta charset="utf-8"> <!-- important! -->
