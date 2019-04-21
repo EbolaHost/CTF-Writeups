@@ -1,8 +1,8 @@
 # Unicorn shop
 
->Some people say you can buy anything, even love! What about unicorns?
->"A person does not buy a unicorn so easily, it’s really a matter of preparing yourself to be worthy of a unicorn."
->[Unicorn Shop](http://104.248.237.208/)
+>Some people say you can buy anything, even love! What about unicorns?  
+>"A person does not buy a unicorn so easily, it’s really a matter of preparing yourself to be worthy of a unicorn."  
+>[Unicorn Shop](http://104.248.237.208/)  
 
 ##### This challenge was solved along with deltaclock.
 
