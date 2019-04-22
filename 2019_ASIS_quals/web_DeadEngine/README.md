@@ -40,8 +40,8 @@ So, given that the flag only contains alphanumeric and "_" characters, we make o
 The solver guesses from "e" to the right, and when it finds nothing, it starts going to the left!
 It prints the hash 2a6e210f10784c9a0197ba164b94f25d, and we submit ASIS{2a6e210f10784c9a0197ba164b94f25d}, which was the correct flag :)
 
-References for Elastic search:
-https://gist.github.com/Mpdreamz/6572344
-https://www.elastic.co/guide/en/elasticsearch/reference/current/search-search.html
-https://www.elastic.co/guide/en/elasticsearch/reference/current/query-dsl-query-string-query.html
+References for Elastic search:  
+https://gist.github.com/Mpdreamz/6572344  
+https://www.elastic.co/guide/en/elasticsearch/reference/current/search-search.html  
+https://www.elastic.co/guide/en/elasticsearch/reference/current/query-dsl-query-string-query.html  
 
